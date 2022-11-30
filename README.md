@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan <br/><a href="https://github.com/danumek">I.T. Professional</a> & <a href="https://www.linkedin.com/in/joshmadakor/">Automation Enthusiast </a>
+<h1>Hi, I'm Dan <br/><a href="https://github.com/danumek">I.T. Professional</a> & <a href="https://github.com/danumek">Automation Enthusiast </a>
 
 <h2>👨‍💻⚙️ Home Lab Projects:</h2>
 
@@ -13,10 +13,10 @@
 
 <h2>⌨️💪  Scripting Projects:</h2>
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Script1](https://github.com/danumek)
+  - [Script2](https://github.com/danumek)
+  - [Script3](https://github.com/danumek)
+  - [Script4](https://github.com/danumek)
   
 <h2>📃  Certifications:</h2>
     <b>🔧🌐🔒  CompTIA A+</b>
