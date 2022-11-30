@@ -3,7 +3,7 @@
 <h2>👨‍💻⚙️ Home Lab Projects:</h2>
 
 - <b>Active Directory Server Configuration on Windows Hyper-V</b>
-  - [AD Bulk User Creation](https://github.com/danumek)
+  - [AD Bulk User Creation](https://github.com/danumek/ADHomeLab)
   - [AD Project 2](https://github.com/danumek)
 - <b>Home NAS & Web Server</b>
   - [Linux File Server Configuration](https://github.com/danumek) <b>
