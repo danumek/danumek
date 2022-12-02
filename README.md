@@ -5,12 +5,12 @@
 - <b>Active Directory Server Configuration on Windows Hyper-V</b>
   - [AD Bulk User Creation](https://github.com/danumek/ADHomeLab)
   - [AD Project 2](https://github.com/danumek)
-- <b>Home NAS & Web Server</b>
+- <b>Home NAS</b>
   - [Linux File Server Configuration](https://github.com/danumek) <b>
-  - [Self-Hosted Website](https://github.com/danumek) <b>
-- <b>Cybersecurity Project</b>
-
-
+- <b>Cybersecurity Projects</b>
+  - [Coming Soon...](https://github.com/danumek) <b>  
+- <b>DevOps Projects</b>
+  - [Coming Soon...](https://github.com/danumek) <b>
 <h2>⌨️💪  Scripting Projects:</h2>
 
   - [Script1](https://github.com/danumek)
@@ -23,7 +23,7 @@
 <h2>🌱 I’m currently learning:</h2>
     <b>🟦 Azure</b><br>
     <b>🐧 Linux</b><br>
-    <b>⚛️ React</b>
+    <b>💎 Flutter</b>
 <h2>🔭 I’m currently working on:</h2>
      ♾️ DevOps Skills<br>
      🌐 CompTIA Network+<br>
